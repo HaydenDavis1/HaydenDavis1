@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding/creating new projects
 - 🌱 I’m currently learning ... CS50 introductory course
 - 💞️ I’m looking to collaborate on ... CS50 assignments/new projects 
-- 📫 How to reach me ... haydendavis100@gmail.com
+- 📫 How to reach me ... haydendavismusic@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am currently an Aircraft Technician and Private Pilot, but was always interested in coding since a young age. looking to swap careers or learn more about these languages. 
 
